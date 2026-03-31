@@ -1,1 +1,3 @@
-# tl1-tp1-2025-AyelenGauna-1
+La sintaxis básica de git clone es git clone <url_del_repositorio>, utilizada
+para descargar una copia local de un proyecto remoto. Se ejecuta en la terminal 
+para crear una carpeta con el contenido, incluyendo todo el historial de cambios.
