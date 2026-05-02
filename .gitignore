@@ -432,7 +432,7 @@ Copia de seguridad de migración/
 FodyWeavers.xsd
 
 # Archivos de VS Code para quienes trabajan con varias herramientas
-.vscode/*
+.vscode/
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
